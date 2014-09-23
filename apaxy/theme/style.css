@@ -43,9 +43,9 @@ a:hover {
     Wrapper
 \*------------------------------------*/
 .wrapper {
-	margin:0 auto;
+	margin:20px auto;
 	padding-top:20px;
-	max-width:500px;
+	max-width:900px;
 }
 /*------------------------------------*\
     Demo block
@@ -79,6 +79,7 @@ th {
 /* 2nd Column: Filename */
 th + th {
 	width:65%;
+	padding-right:20px;
 }
 /* 3rd Column: Last Modified */
 th + th + th {
